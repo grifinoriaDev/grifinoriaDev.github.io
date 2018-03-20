@@ -1,0 +1,41 @@
+# Site Settings
+title: Grifinória Dev
+email: william.galleti@gmail.com
+description: Some text about your blog.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://grifinoriaDev.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: Wiliam Galleti
+user_description: Apaixonado por tecnologia gosto de ver dados transformados em informações!
+disqus_username: blog-c31mqjeagw
+
+# Social Media
+# Remove the item if you don't need it
+github_username: wgalleti
+facebook_username: william.galleti
+twitter_username: wGalleti
+linkedin_username: william-galleti-6b97a833
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

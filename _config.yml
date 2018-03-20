@@ -4,7 +4,7 @@ email: william.galleti@gmail.com
 description: Some text about your blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grifinoriaDev.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-116135097-1"
 
 # User Settings
 username: Grifinória Dev
